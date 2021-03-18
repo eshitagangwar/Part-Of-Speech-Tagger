@@ -2,14 +2,14 @@
 Overview
 In this assignment you will write a Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language. The training data are provided tokenized and tagged; the test data will be provided tokenized, and your tagger will add the tags. The assignment will be graded based on the performance of your tagger, that is how well it performs on unseen test data compared to the performance of a reference tagger.
 
-#Data
+# Data
 A set of training and development data is available as a compressed ZIP archive on Blackboard. The uncompressed archive will have the following files:
 
 Two files (one Italian, one Japanese) with tagged training data in the word/TAG format, with words separated by spaces and each sentence on a new line.
 Two files (one Italian, one Japanese) with untagged development data, with words separated by spaces and each sentence on a new line.
 Two files (one Italian, one Japanese) with tagged development data in the word/TAG format, with words separated by spaces and each sentence on a new line, to serve as an answer key.
 
-#Programs
+# Programs
 There are two  programs in Python 3: hmmlearn.py will learn a hidden Markov model from the training data, and hmmdecode.py will use the model to tag new data.
 
 The learning program will be invoked in the following way:
