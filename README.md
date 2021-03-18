@@ -1,6 +1,6 @@
 # Part-Of-Speech-Tagger
-Overview
-In this assignment you will write a Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language. The training data are provided tokenized and tagged; the test data will be provided tokenized, and your tagger will add the tags. The assignment will be graded based on the performance of your tagger, that is how well it performs on unseen test data compared to the performance of a reference tagger.
+
+In this assignment we will write a Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language. The training data are provided tokenized and tagged; the test data will be provided tokenized, and tagger will add the tags. 
 
 # Data
 A set of training and development data is available as a compressed ZIP archive on Blackboard. The uncompressed archive will have the following files:
