@@ -22,4 +22,4 @@ The argument is a single file containing the training data; the program will lea
 
 The argument is a single file containing the test data; the program will read the parameters of a hidden Markov model from the file hmmmodel.txt, tag each word in the test data, and write the results to a text file called hmmoutput.txt in the same format as the training data.
 
-The accuracy of tagger is determined by a scoring script which compares the output of your tagger to a reference tagged text.
+
