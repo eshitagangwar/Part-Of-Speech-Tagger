@@ -3,7 +3,7 @@
 In this assignment we will write a Hidden Markov Model part-of-speech tagger for Italian, Japanese, and a surprise language. The training data are provided tokenized and tagged; the test data will be provided tokenized, and tagger will add the tags. 
 
 # Data
-A set of training and development data is available as a compressed ZIP archive on Blackboard. The uncompressed archive will have the following files:
+A set of training and development data is available as a compressed ZIP archive. The uncompressed archive will have the following files:
 
 Two files (one Italian, one Japanese) with tagged training data in the word/TAG format, with words separated by spaces and each sentence on a new line.
 Two files (one Italian, one Japanese) with untagged development data, with words separated by spaces and each sentence on a new line.
